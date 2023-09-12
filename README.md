@@ -33,19 +33,13 @@ Certainly! Here's a shorter setup guide with links:
 9. **Test & Enjoy**: Restart Neovim and test your setup. Customize as needed.
 
 
-Scoop: The stylish command-line installer. Install Scoop.
+## PowerShell setup (Windows)
 
-Git for Windows: The power of Git at your fingertips. Get Git.
-
-Oh My Posh: Elevate your prompt with themes. Oh My Posh.
-
-Terminal Icons: Icons make it pop! Terminal Icons.
-
-PSReadLine: Smart editing and autocompletion. PSReadLine.
-
-z: Warp-speed directory hopping. Install z.
-
-PSFzf: Fuzzy searching with a cool twist. PSFzf.
-
-Now, your PowerShell on Windows is not just functional but also fabulous!
+- [Scoop](https://scoop.sh/) - A command-line installer
+- [Git for Windows](https://gitforwindows.org/)
+- [Oh My Posh](https://ohmyposh.dev/) - Prompt theme engine
+- [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - Folder and file icons
+- [PSReadLine](https://docs.microsoft.com/en-us/powershell/module/psreadline/) - Cmdlets for customizing the editing environment, used for autocompletion
+- [z](https://www.powershellgallery.com/packages/z) - Directory jumper
+- [PSFzf](https://github.com/kelleyma49/PSFzf) - Fuzzy finder
 
