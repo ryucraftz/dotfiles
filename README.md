@@ -12,6 +12,8 @@
 - fish config
 - PowerShell config
 
+## Neovim setup
+
 1. **Install Neovim**: Ensure you have [Neovim](https://neovim.io/) (>= 0.8) installed.
 
 2. **Plugin Manager**: Install [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) as your plugin manager.
